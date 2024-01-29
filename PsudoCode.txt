@@ -1,0 +1,6 @@
+Outer Loop, loop around whole list until it's sorted{
+    Inner Loop, loop once for each item{
+    Check if item to the left or right is bigger
+        If the left item is bigger, swap it with the right
+    }
+}
